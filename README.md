@@ -38,6 +38,7 @@
 ## ✨ About
 
 <div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
 
 **I'm Tanvir Nibir — a Software Engineering student at Metropolia University, majoring in Mobile Development and passionate about learning and building practical applications.** I'm on a journey to master modern development technologies and create meaningful digital experiences.
 
