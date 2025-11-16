@@ -164,6 +164,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0 16px;">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Framework icons" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
 </div>
 
 **Frameworks & Libraries (Learning)**  
