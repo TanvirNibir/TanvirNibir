@@ -20,9 +20,9 @@
 
 ---
 
-<div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <div style="width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block;">
+<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
+  <div style="width: 100%; max-width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden; box-sizing: border-box;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block; max-width: 100%;">
       <defs>
         <linearGradient id="waveGradientStack" x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stop-color="#1e104c"/>
@@ -37,7 +37,7 @@
 
 ## ✨ About
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65;">
+<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
 
 **I'm Tanvir Nibir — a Software Engineering student at Metropolia University, majoring in Mobile Development and passionate about learning and building practical applications.** I'm on a journey to master modern development technologies and create meaningful digital experiences.
@@ -55,7 +55,7 @@
 
 ## 🚀 Quick Facts
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65;">
+<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
 
 - 🎓 Software Engineering student @ Metropolia University (Mobile Development major)  
 - 💡 Learning to build applications from concept to deployment  
@@ -69,9 +69,9 @@
 
 ## 🌌 Learning Journey
 
-<div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <div style="width: 100%; height: 80px; border-radius: 18px; background: linear-gradient(90deg, rgba(255, 0, 168, 0.12) 0%, rgba(188, 19, 254, 0.12) 50%, rgba(0, 245, 255, 0.12) 100%); box-shadow: 0 16px 34px rgba(188, 19, 254, 0.22); position: relative; overflow: hidden;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="100%" height="80" preserveAspectRatio="none" style="display: block;">
+<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
+  <div style="width: 100%; max-width: 100%; height: 80px; border-radius: 18px; background: linear-gradient(90deg, rgba(255, 0, 168, 0.12) 0%, rgba(188, 19, 254, 0.12) 50%, rgba(0, 245, 255, 0.12) 100%); box-shadow: 0 16px 34px rgba(188, 19, 254, 0.22); position: relative; overflow: hidden; box-sizing: border-box;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="100%" height="80" preserveAspectRatio="none" style="display: block; max-width: 100%;">
       <defs>
         <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stop-color="#ff00a8"/>
@@ -85,7 +85,7 @@
   </div>
 </div>
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.28); background: linear-gradient(135deg, rgba(9, 10, 15, 0.92) 10%, rgba(188, 19, 254, 0.28) 100%); box-shadow: 0 18px 45px rgba(188, 19, 254, 0.2); overflow-x: auto;">
+<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.28); background: linear-gradient(135deg, rgba(9, 10, 15, 0.92) 10%, rgba(188, 19, 254, 0.28) 100%); box-shadow: 0 18px 45px rgba(188, 19, 254, 0.2); overflow-x: auto; max-width: 100%; box-sizing: border-box;">
 
 <table style="width: 100%; border-collapse: collapse; font-size: 14px; min-width: 520px; color: rgba(255, 255, 255, 0.85);">
   <thead>
@@ -130,9 +130,9 @@
 
 ## 🛠️ Tech Stack & Learning
 
-<div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <div style="width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block;">
+<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
+  <div style="width: 100%; max-width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden; box-sizing: border-box;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block; max-width: 100%;">
       <defs>
         <linearGradient id="waveGradientTechStack" x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stop-color="#1e104c"/>
@@ -145,7 +145,7 @@
   </div>
 </div>
 
-<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(9, 11, 16, 0.92) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.18); text-align: center; color: rgba(255, 255, 255, 0.86);">
+<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(9, 11, 16, 0.92) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.18); text-align: center; color: rgba(255, 255, 255, 0.86); max-width: 100%; box-sizing: border-box;">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 16px 0 12px;">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Languages strip" />
@@ -203,7 +203,7 @@
 
 <div style="height: 3px; width: 100%; max-width: 640px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(188, 19, 254, 0.15) 0%, rgba(188, 19, 254, 0.9) 50%, rgba(188, 19, 254, 0.15) 100%); box-shadow: 0 0 26px rgba(188, 19, 254, 0.4);"></div>
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.32); background: linear-gradient(140deg, rgba(10, 12, 18, 0.94) 10%, rgba(188, 19, 254, 0.32) 100%); box-shadow: 0 22px 50px rgba(188, 19, 254, 0.24); color: rgba(255, 255, 255, 0.88); line-height: 1.65;">
+<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.32); background: linear-gradient(140deg, rgba(10, 12, 18, 0.94) 10%, rgba(188, 19, 254, 0.32) 100%); box-shadow: 0 22px 50px rgba(188, 19, 254, 0.24); color: rgba(255, 255, 255, 0.88); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
 
 - 🎓 **Software Engineering student (Mobile Development major)** at Metropolia University — actively learning and building practical applications  
 - ☕ Currently mastering **Java OOP** with hands-on projects covering inheritance, interfaces, collections, packages, and GUI development with JavaFX  
@@ -221,10 +221,10 @@
 
 <div style="height: 3px; width: 100%; max-width: 520px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(15, 10, 40, 0.2) 0%, rgba(188, 19, 254, 0.85) 50%, rgba(15, 10, 40, 0.2) 100%); box-shadow: 0 0 20px rgba(188, 19, 254, 0.36);"></div>
 
-<div style="padding: 24px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.25); background: linear-gradient(135deg, rgba(9, 9, 14, 0.92) 5%, rgba(188, 19, 254, 0.25) 100%); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22); text-align: center; color: rgba(255, 255, 255, 0.88);">
+<div style="padding: 24px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.25); background: linear-gradient(135deg, rgba(9, 9, 14, 0.92) 5%, rgba(188, 19, 254, 0.25) 100%); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22); text-align: center; color: rgba(255, 255, 255, 0.88); max-width: 100%; box-sizing: border-box;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; margin-top: 24px;">
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
+  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
     <h3>📚 Bookish App</h3>
     <p><strong>A Modern Platform for Book Enthusiasts</strong></p>
     <p>Comprehensive book management application designed for readers to explore, review, and organize their literary journey. Built with modern web technologies and database integration, this platform enables seamless book discovery and community engagement.</p>
@@ -239,7 +239,7 @@
     <p><strong>Tech Stack:</strong> Modern Web Technologies, Database Integration, RESTful APIs</p>
     <a href="https://github.com/TanvirNibir/Bookish-App"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
+  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
     <h3>✈️ Skyward Deliveries</h3>
     <p><strong>A Full-Stack Drone Delivery Management System with Interactive Gameplay</strong></p>
     <p>An enterprise-grade delivery tracking platform combining real-time logistics management with gamified airplane management. Features comprehensive admin controls, real-time tracking, and engaging gameplay mechanics for optimal user experience.</p>
@@ -255,7 +255,7 @@
     <p><strong>Tech Stack:</strong> Node.js, Express.js, React, Python, MongoDB, Mapbox API, JWT Authentication</p>
     <a href="https://github.com/TanvirNibir/Skyward_Deliveries"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
+  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
     <h3>☕ SWE-25: Java OOP Learning Journey</h3>
     <p><strong>Comprehensive Java Object-Oriented Programming Course Repository</strong></p>
     <p>A structured learning repository documenting my complete Java OOP journey from fundamentals to advanced concepts. Includes practical exercises, real-world projects, and progress tracking across multiple learning modules.</p>
@@ -270,7 +270,7 @@
     <p><strong>Tech Stack:</strong> Java, OOP Principles, Collections Framework, JDBC (learning), JavaFX (upcoming)</p>
     <a href="https://github.com/TanvirNibir/SWE-25"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
+  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
     <h3>☕ Coffee Machine Project</h3>
     <p><strong>A Python-based simulation of a coffee machine demonstrating OOP principles</strong></p>
     <p>An elegant console-based application showcasing object-oriented programming principles through a fully functional coffee machine simulation. Demonstrates clean code architecture, separation of concerns, and modular design patterns.</p>
@@ -300,7 +300,7 @@
 
 <div style="height: 3px; width: 100%; max-width: 520px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(15, 10, 40, 0.2) 0%, rgba(188, 19, 254, 0.85) 50%, rgba(15, 10, 40, 0.2) 100%); box-shadow: 0 0 20px rgba(188, 19, 254, 0.36);"></div>
 
-<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.4); background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35) 0%, rgba(10, 12, 16, 0.95) 45%, rgba(10, 12, 16, 0.98) 100%); box-shadow: 0 30px 60px rgba(188, 19, 254, 0.25); color: rgba(255, 255, 255, 0.88);">
+<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.4); background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35) 0%, rgba(10, 12, 16, 0.95) 45%, rgba(10, 12, 16, 0.98) 100%); box-shadow: 0 30px 60px rgba(188, 19, 254, 0.25); color: rgba(255, 255, 255, 0.88); max-width: 100%; box-sizing: border-box;">
   <ul style="list-style: none; padding: 0; margin: 0; display: grid; gap: 12px;">
     <li style="display: flex; align-items: center; gap: 12px;">
       <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #ff9bff, #7a00ff); box-shadow: 0 4px 12px rgba(188, 19, 254, 0.45); color: #fff; font-size: 14px;">🎓</span>
@@ -352,10 +352,10 @@
 ## 📈 Activity
 
 <div align="center">
-  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.35); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22);">
+  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.35); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22); max-width: 100%; box-sizing: border-box;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirNibir&theme=radical&hide_border=true&bg_color=0D1117&color=BC13FE&line=BC13FE&point=FFFFFF&area=true&area_color=BC13FE&cache_seconds=3600" alt="Contribution graph" style="display: block; border-radius: 18px;" />
   </div>
-  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.18), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.25); box-shadow: 0 18px 36px rgba(188, 19, 254, 0.18);">
+  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.18), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.25); box-shadow: 0 18px 36px rgba(188, 19, 254, 0.18); max-width: 100%; box-sizing: border-box;">
     <img src="https://raw.githubusercontent.com/TanvirNibir/TanvirNibir/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" style="display: block; border-radius: 18px;" />
   </div>
 </div>
