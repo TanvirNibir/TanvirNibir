@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:0D1117&height=170&section=header&text=Tanvir%20Nibir&fontSize=48&fontAlign=50&fontColor=FFFFFF&animation=twinkling" alt="Tanvir Nibir" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&pause=1200&color=BC13FE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Mobile+Development+Major;Crafting+Android+%26+Web+Experiences;Building+Projects+%7C+Growing+Skills" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&pause=1200&color=BC13FE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Mobile+Development+Major;Crafting+Android+%26+Web+Experiences;Building+Projects+%7C+Growing+Skills" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -21,18 +21,18 @@
 ---
 
 <div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="width: 100%; height: 60px; border-radius: 18px; box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28);">
-    <defs>
-      <linearGradient id="waveGradientStack" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#1e104c"/>
-        <stop offset="50%" stop-color="#7b00d6"/>
-        <stop offset="100%" stop-color="#00d4ff"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#waveGradientStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z;M0,30 Q140,48 280,30 T560,30 T840,30 V60 H0 Z;M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z"/>
-    </path>
-  </svg>
+  <div style="width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block;">
+      <defs>
+        <linearGradient id="waveGradientStack" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#1e104c"/>
+          <stop offset="50%" stop-color="#7b00d6"/>
+          <stop offset="100%" stop-color="#00d4ff"/>
+        </linearGradient>
+      </defs>
+      <path fill="url(#waveGradientStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z" opacity="0.9"/>
+    </svg>
+  </div>
 </div>
 
 ## ✨ About
@@ -42,10 +42,11 @@
 
 **I'm Tanvir Nibir — a Software Engineering student at Metropolia University, majoring in Mobile Development and passionate about learning and building practical applications.** I'm on a journey to master modern development technologies and create meaningful digital experiences.
 
-- ☕ Currently learning **Java** and mastering Object-Oriented Programming concepts  
-- 📱 Exploring Android development with Kotlin and mobile app architecture  
-- 🌐 Building web applications with Python, JavaScript, React, and Node.js  
-- 🧠 Focused on understanding OOP principles, data structures, and full-stack development fundamentals  
+- ☕ Currently mastering **Java OOP** with focus on inheritance, interfaces, collections, and advanced concepts  
+- 📱 Exploring Android development with Kotlin and mobile app architecture patterns  
+- 🌐 Building full-stack web applications with Python, JavaScript, React, Node.js, and MongoDB  
+- 🧠 Deepening understanding of OOP principles, design patterns, data structures, and full-stack development  
+- 🚀 Actively working on projects integrating databases, APIs, and modern frameworks  
 - 🤝 Open to internships, part-time opportunities, and collaborative projects to gain real-world experience
 
 </div>
@@ -69,24 +70,19 @@
 ## 🌌 Learning Journey
 
 <div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 80" width="100%" height="80" preserveAspectRatio="none" style="width: 100%; height: 80px; border-radius: 18px; box-shadow: 0 16px 34px rgba(188, 19, 254, 0.22);">
-    <defs>
-      <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff00a8"/>
-        <stop offset="50%" stop-color="#bc13fe"/>
-        <stop offset="100%" stop-color="#00f5ff"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="600" height="80" rx="24" fill="url(#snakeGradient)" opacity="0.12"></rect>
-    <path id="snakePath" d="M0,55 C60,20 120,75 180,45 C240,15 300,65 360,40 C420,15 480,65 540,35 C570,20 600,45 600,45" fill="none" stroke="url(#snakeGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="24 12">
-      <animate attributeName="stroke-dashoffset" values="0;-360" dur="7s" repeatCount="indefinite" />
-    </path>
-    <circle r="7" fill="#ffffff" stroke="#bc13fe" stroke-width="2">
-      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
-        <mpath xlink:href="#snakePath" />
-      </animateMotion>
-    </circle>
-  </svg>
+  <div style="width: 100%; height: 80px; border-radius: 18px; background: linear-gradient(90deg, rgba(255, 0, 168, 0.12) 0%, rgba(188, 19, 254, 0.12) 50%, rgba(0, 245, 255, 0.12) 100%); box-shadow: 0 16px 34px rgba(188, 19, 254, 0.22); position: relative; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="100%" height="80" preserveAspectRatio="none" style="display: block;">
+      <defs>
+        <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#ff00a8"/>
+          <stop offset="50%" stop-color="#bc13fe"/>
+          <stop offset="100%" stop-color="#00f5ff"/>
+        </linearGradient>
+      </defs>
+      <path d="M0,55 C60,20 120,75 180,45 C240,15 300,65 360,40 C420,15 480,65 540,35 C570,20 600,45 600,45" fill="none" stroke="url(#snakeGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="24 12" opacity="0.8"/>
+      <circle cx="540" cy="35" r="7" fill="#ffffff" stroke="#bc13fe" stroke-width="2" opacity="0.9"/>
+    </svg>
+  </div>
 </div>
 
 <div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.28); background: linear-gradient(135deg, rgba(9, 10, 15, 0.92) 10%, rgba(188, 19, 254, 0.28) 100%); box-shadow: 0 18px 45px rgba(188, 19, 254, 0.2); overflow-x: auto;">
@@ -101,9 +97,9 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java OOP - Inheritance, Interfaces, Collections</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java projects with GUI and database integration</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Master Java and enterprise development</td>
+      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java OOP - Inheritance, Interfaces, Collections, Packages</td>
+      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java projects with GUI (JavaFX) and database integration (JDBC)</td>
+      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Master Java enterprise development and design patterns</td>
     </tr>
     <tr>
       <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Python fundamentals and object-oriented programming</td>
@@ -135,18 +131,18 @@
 ## 🛠️ Tech Stack & Learning
 
 <div align="center" style="margin: 32px auto 24px; width: 100%;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="width: 100%; height: 60px; border-radius: 18px; box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28);">
-    <defs>
-      <linearGradient id="waveGradientStack" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#1e104c"/>
-        <stop offset="50%" stop-color="#7b00d6"/>
-        <stop offset="100%" stop-color="#00d4ff"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#waveGradientStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z;M0,30 Q140,48 280,30 T560,30 T840,30 V60 H0 Z;M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z"/>
-    </path>
-  </svg>
+  <div style="width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block;">
+      <defs>
+        <linearGradient id="waveGradientTechStack" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#1e104c"/>
+          <stop offset="50%" stop-color="#7b00d6"/>
+          <stop offset="100%" stop-color="#00d4ff"/>
+        </linearGradient>
+      </defs>
+      <path fill="url(#waveGradientTechStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z" opacity="0.9"/>
+    </svg>
+  </div>
 </div>
 
 <div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(9, 11, 16, 0.92) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.18); text-align: center; color: rgba(255, 255, 255, 0.86);">
@@ -210,11 +206,12 @@
 <div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.32); background: linear-gradient(140deg, rgba(10, 12, 18, 0.94) 10%, rgba(188, 19, 254, 0.32) 100%); box-shadow: 0 22px 50px rgba(188, 19, 254, 0.24); color: rgba(255, 255, 255, 0.88); line-height: 1.65;">
 
 - 🎓 **Software Engineering student (Mobile Development major)** at Metropolia University — actively learning and building practical applications  
-- ☕ Currently mastering **Java OOP** with hands-on projects covering inheritance, interfaces, collections, and GUI development  
-- 💻 Developing projects with Java, Python, and JavaScript, exploring modern frameworks like React and Node.js  
-- 🚀 Building applications from fundamentals to advanced topics including database integration with JDBC  
+- ☕ Currently mastering **Java OOP** with hands-on projects covering inheritance, interfaces, collections, packages, and GUI development with JavaFX  
+- 💻 Developing full-stack projects with Java, Python, JavaScript, React, Node.js, and MongoDB  
+- 🚀 Building applications from fundamentals to advanced topics including database integration with JDBC, RESTful APIs, and modern frameworks  
+- 📝 Recently enhanced profile documentation and project descriptions with comprehensive technical details  
 - 🤝 Open to internships, part-time tech roles, and collaborative learning opportunities  
-- 📚 Passionate about continuous learning and contributing to open-source projects
+- 📚 Passionate about continuous learning, clean code principles, and contributing to open-source projects
 
 </div>
 
@@ -230,57 +227,63 @@
   <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
     <h3>📚 Bookish App</h3>
     <p><strong>A Modern Platform for Book Enthusiasts</strong></p>
-    <p>Comprehensive book management application designed for readers to explore, review, and organize their literary journey:</p>
+    <p>Comprehensive book management application designed for readers to explore, review, and organize their literary journey. Built with modern web technologies and database integration, this platform enables seamless book discovery and community engagement.</p>
     <ul>
-      <li>🔹 Explore and discover new books with advanced search</li>
-      <li>🔹 Review and rate books with community engagement</li>
-      <li>🔹 Organize personal reading lists and shelves</li>
-      <li>🔹 Personalized book recommendations</li>
-      <li>🔹 Social features for connecting with fellow readers</li>
+      <li>🔹 Advanced search functionality with filtering and sorting capabilities</li>
+      <li>🔹 Community-driven review and rating system with user-generated content</li>
+      <li>🔹 Personal library management with custom reading lists and virtual shelves</li>
+      <li>🔹 AI-powered book recommendations based on reading history and preferences</li>
+      <li>🔹 Social features for connecting with fellow readers and sharing insights</li>
+      <li>🔹 Responsive design optimized for desktop and mobile experiences</li>
     </ul>
-    <p><strong>Tech Stack:</strong> Modern Web Technologies, Database Integration</p>
+    <p><strong>Tech Stack:</strong> Modern Web Technologies, Database Integration, RESTful APIs</p>
     <a href="https://github.com/TanvirNibir/Bookish-App"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
   <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
     <h3>✈️ Skyward Deliveries</h3>
     <p><strong>A Full-Stack Drone Delivery Management System with Interactive Gameplay</strong></p>
-    <p>An advanced delivery tracking platform combining real-time logistics with gamified airplane management:</p>
+    <p>An enterprise-grade delivery tracking platform combining real-time logistics management with gamified airplane management. Features comprehensive admin controls, real-time tracking, and engaging gameplay mechanics for optimal user experience.</p>
     <ul>
-      <li>🔹 Real-time delivery tracking with Mapbox integration</li>
-      <li>🔹 Admin dashboard for managing users and deliveries</li>
-      <li>🔹 Interactive gameplay: manage airports, fuel, and airplane upgrades</li>
-      <li>🔹 Analytics dashboard for performance monitoring</li>
-      <li>🔹 MongoDB + JWT authentication for secure access</li>
+      <li>🔹 Real-time delivery tracking with Mapbox integration and geolocation services</li>
+      <li>🔹 Comprehensive admin dashboard with user management, delivery scheduling, and analytics</li>
+      <li>🔹 Interactive gameplay mechanics: manage airports, fuel systems, and airplane upgrades</li>
+      <li>🔹 Advanced analytics dashboard with performance metrics and data visualization</li>
+      <li>🔹 Secure authentication system using MongoDB and JWT tokens</li>
+      <li>🔹 RESTful API architecture with Express.js backend and React frontend</li>
+      <li>🔹 Python scripts for data processing and automation</li>
     </ul>
-    <p><strong>Tech Stack:</strong> Node.js, Express, React, Python, MongoDB, Mapbox API</p>
+    <p><strong>Tech Stack:</strong> Node.js, Express.js, React, Python, MongoDB, Mapbox API, JWT Authentication</p>
     <a href="https://github.com/TanvirNibir/Skyward_Deliveries"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
   <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
     <h3>☕ SWE-25: Java OOP Learning Journey</h3>
     <p><strong>Comprehensive Java Object-Oriented Programming Course Repository</strong></p>
-    <p>A complete documentation of my Java learning path, featuring practical exercises and projects:</p>
+    <p>A structured learning repository documenting my complete Java OOP journey from fundamentals to advanced concepts. Includes practical exercises, real-world projects, and progress tracking across multiple learning modules.</p>
     <ul>
-      <li>🔹 <strong>Module 1-2 Completed:</strong> Java fundamentals, variables, control structures, arrays, classes, collections</li>
-      <li>🔹 <strong>Currently Learning:</strong> Inheritance, interfaces, static methods, packages</li>
-      <li>🔹 <strong>Upcoming:</strong> GUI development with JavaFX, database integration with JDBC, unit testing, lambdas</li>
-      <li>🔹 Includes practical projects: Shape hierarchies, Car inheritance, Library systems, CoffeeMaker, Television</li>
-      <li>🔹 Progress tracking with structured learning modules</li>
+      <li>🔹 <strong>Module 1-2 Completed:</strong> Java fundamentals, variables, control structures, arrays, classes, collections framework</li>
+      <li>🔹 <strong>Currently Learning:</strong> Inheritance hierarchies, interface implementation, static methods, package organization</li>
+      <li>🔹 <strong>Upcoming:</strong> GUI development with JavaFX, database integration with JDBC, unit testing with JUnit, lambda expressions</li>
+      <li>🔹 Practical projects: Shape hierarchies, Car inheritance systems, Library management, CoffeeMaker simulation, Television control</li>
+      <li>🔹 Comprehensive progress tracking with structured learning modules and documentation</li>
+      <li>🔹 Code examples demonstrating SOLID principles and design patterns</li>
     </ul>
-    <p><strong>Tech Stack:</strong> Java, OOP, Collections, JDBC (learning)</p>
+    <p><strong>Tech Stack:</strong> Java, OOP Principles, Collections Framework, JDBC (learning), JavaFX (upcoming)</p>
     <a href="https://github.com/TanvirNibir/SWE-25"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
   <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left;">
     <h3>☕ Coffee Machine Project</h3>
     <p><strong>A Python-based simulation of a coffee machine demonstrating OOP principles</strong></p>
-    <p>Built with Python 3.x, this console-based application simulates a fully functional coffee machine:</p>
+    <p>An elegant console-based application showcasing object-oriented programming principles through a fully functional coffee machine simulation. Demonstrates clean code architecture, separation of concerns, and modular design patterns.</p>
     <ul>
-      <li>🔹 Order coffee (latte, espresso, cappuccino)</li>
-      <li>🔹 Simulate coin-based payments with change calculation</li>
-      <li>🔹 Track machine resources (water, milk, coffee)</li>
-      <li>🔹 Display detailed resource and profit reports</li>
-      <li>🔹 Object-oriented design with Menu, CoffeeMaker, and MoneyMachine classes</li>
+      <li>🔹 Multiple coffee types: latte, espresso, cappuccino with customizable recipes</li>
+      <li>🔹 Realistic coin-based payment system with precise change calculation algorithms</li>
+      <li>🔹 Resource management: track water, milk, and coffee bean inventory in real-time</li>
+      <li>🔹 Comprehensive reporting: detailed resource status and profit analytics</li>
+      <li>🔹 Clean OOP architecture: Menu, CoffeeMaker, and MoneyMachine classes with single responsibility</li>
+      <li>🔹 Error handling for insufficient resources and invalid inputs</li>
+      <li>🔹 Extensible design allowing easy addition of new coffee types and features</li>
     </ul>
-    <p><strong>Tech Stack:</strong> Python, OOP Design Patterns</p>
+    <p><strong>Tech Stack:</strong> Python 3.x, OOP Design Patterns, SOLID Principles</p>
     <a href="https://github.com/TanvirNibir/Coffee_Machine"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
   </div>
 </div>
@@ -339,9 +342,9 @@
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirNibir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&icon_color=BC13FE&text_color=ffffff" alt="Tanvir's GitHub stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=TanvirNibir&theme=radical&hide_border=true&background=0D1117&stroke=BC13FE&ring=BC13FE&fire=BC13FE&currStreakLabel=BC13FE&border_radius=20" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirNibir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&text_color=ffffff" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirNibir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&icon_color=BC13FE&text_color=ffffff&cache_seconds=86400" alt="Tanvir's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=TanvirNibir&theme=radical&hide_border=true&background=0D1117&stroke=BC13FE&ring=BC13FE&fire=BC13FE&currStreakLabel=BC13FE&border_radius=20" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirNibir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&text_color=ffffff&cache_seconds=86400" alt="Top languages" />
 </div>
 
 ---
@@ -350,12 +353,28 @@
 
 <div align="center">
   <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.35); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirNibir&theme=radical&hide_border=true&bg_color=0D1117&color=BC13FE&line=BC13FE&point=FFFFFF&area=true&area_color=BC13FE" alt="Contribution graph" style="display: block; border-radius: 18px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirNibir&theme=radical&hide_border=true&bg_color=0D1117&color=BC13FE&line=BC13FE&point=FFFFFF&area=true&area_color=BC13FE&cache_seconds=3600" alt="Contribution graph" style="display: block; border-radius: 18px;" />
   </div>
   <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.18), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.25); box-shadow: 0 18px 36px rgba(188, 19, 254, 0.18);">
     <img src="https://raw.githubusercontent.com/TanvirNibir/TanvirNibir/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" style="display: block; border-radius: 18px;" />
   </div>
 </div>
+
+<details>
+<summary>📝 <i>Note: If graphs don't load, it's due to GitHub API rate limiting. They'll appear automatically once limits reset (usually within 1-2 hours).</i></summary>
+
+The contribution graphs use GitHub's API which has rate limits. When you see "Failed to retrieve contributions", the public service has temporarily hit its limit. The graphs will automatically refresh once the rate limit resets.
+
+**Why this happens:**
+- Public GitHub stats services share API rate limits
+- High traffic periods can cause temporary unavailability
+- Caching helps but doesn't eliminate the issue completely
+
+**Solutions:**
+- ✅ Wait 1-2 hours for automatic recovery (recommended)
+- ✅ The contribution snake (right side) uses a different method and should always work
+- 🔧 For permanent solution, consider self-hosting your own instance
+</details>
 
 ---
 
