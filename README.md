@@ -1,419 +1,551 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:0D1117&height=170&section=header&text=Tanvir%20Nibir&fontSize=48&fontAlign=50&fontColor=FFFFFF&animation=twinkling" alt="Tanvir Nibir" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:8B00FF,100:BC13FE&height=170&section=header&text=Tanvir%20Nibir&fontSize=48&fontAlign=50&fontColor=FFFFFF&animation=twinkling" alt="Tanvir Nibir" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&pause=1200&color=BC13FE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Mobile+Development+Major;Crafting+Android+%26+Web+Experiences;Building+Projects+%7C+Growing+Skills" alt="Typing intro" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Student-Always%20Learning-0D1117?style=for-the-badge&logo=google-scholar&logoColor=BC13FE" alt="Always Learning" />
-  <img src="https://img.shields.io/badge/Code-Practice%20Daily-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE" alt="Practice Daily" />
-  <img src="https://img.shields.io/badge/Build-Real%20Projects-0D1117?style=for-the-badge&logo=android&logoColor=BC13FE" alt="Build Real Projects" />
+  <img src="https://img.shields.io/badge/Student-Elite%20Learner-BC13FE?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF" alt="Elite Learner" />
+  <img src="https://img.shields.io/badge/Code-Mastery-BC13FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Code Mastery" />
+  <img src="https://img.shields.io/badge/Build-Excellence-BC13FE?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Build Excellence" />
 </div>
 
-<p align="center">
-  <a href="https://tanvirnibir.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=BC13FE" alt="Portfolio" /></a>
-  <a href="mailto:tanvir.nibir@metropolia.fi"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BC13FE" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/tanvirnibir/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BC13FE" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Tanvir_Nibir_"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=BC13FE" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/callme.tanvirr/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=BC13FE" alt="Instagram" /></a>
-</p>
+<br />
 
----
-
-<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
-  <div style="width: 100%; max-width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden; box-sizing: border-box;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block; max-width: 100%;">
-      <defs>
-        <linearGradient id="waveGradientStack" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#1e104c"/>
-          <stop offset="50%" stop-color="#7b00d6"/>
-          <stop offset="100%" stop-color="#00d4ff"/>
-        </linearGradient>
-      </defs>
-      <path fill="url(#waveGradientStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z" opacity="0.9"/>
-    </svg>
-  </div>
+<div align="center">
+  <a href="https://tanvirnibir.github.io"><img src="https://img.shields.io/badge/Portfolio-BC13FE?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio" /></a>
+  <a href="mailto:tanvir.nibir@metropolia.fi"><img src="https://img.shields.io/badge/Email-BC13FE?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tanvirnibir/"><img src="https://img.shields.io/badge/LinkedIn-BC13FE?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Tanvir_Nibir_"><img src="https://img.shields.io/badge/Twitter-BC13FE?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/callme.tanvirr/"><img src="https://img.shields.io/badge/Instagram-BC13FE?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
 </div>
 
-## ✨ About
+<br />
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
-
-**I'm Tanvir Nibir — a Software Engineering student at Metropolia University, majoring in Mobile Development and passionate about learning and building practical applications.** I'm on a journey to master modern development technologies and create meaningful digital experiences.
-
-- ☕ Currently mastering **Java OOP** with focus on inheritance, interfaces, collections, and advanced concepts  
-- 📱 Exploring Android development with Kotlin and mobile app architecture patterns  
-- 🌐 Building full-stack web applications with Python, JavaScript, React, Node.js, and MongoDB  
-- 🧠 Deepening understanding of OOP principles, design patterns, data structures, and full-stack development  
-- 🚀 Actively working on projects integrating databases, APIs, and modern frameworks  
-- 🤝 Open to internships, part-time opportunities, and collaborative projects to gain real-world experience
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Separator" />
 </div>
 
----
+<br />
 
-## 🚀 Quick Facts
-
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.22); color: rgba(255, 255, 255, 0.86); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
-
-- 🎓 Software Engineering student @ Metropolia University (Mobile Development major)  
-- 💡 Learning to build applications from concept to deployment  
-- 📖 Studying clean code principles, version control, and best practices  
-- 🌈 Believes in inclusive tech and community-driven learning  
-- 🎯 Goal: Become a skilled full-stack developer and contribute to meaningful projects
-
+<div align="center">
+  <h2>✨ About Me</h2>
+  <p>⚡ <strong>Elite Developer</strong> | 🔥 <strong>Code Master</strong> | 👑 <strong>Building Excellence</strong> ⚡</p>
+  <img src="https://img.shields.io/badge/Status-Elite%20Developer-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Status" />
 </div>
 
----
-
-## 🌌 Learning Journey
-
-<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
-  <div style="width: 100%; max-width: 100%; height: 80px; border-radius: 18px; background: linear-gradient(90deg, rgba(255, 0, 168, 0.12) 0%, rgba(188, 19, 254, 0.12) 50%, rgba(0, 245, 255, 0.12) 100%); box-shadow: 0 16px 34px rgba(188, 19, 254, 0.22); position: relative; overflow: hidden; box-sizing: border-box;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="100%" height="80" preserveAspectRatio="none" style="display: block; max-width: 100%;">
-      <defs>
-        <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#ff00a8"/>
-          <stop offset="50%" stop-color="#bc13fe"/>
-          <stop offset="100%" stop-color="#00f5ff"/>
-        </linearGradient>
-      </defs>
-      <path d="M0,55 C60,20 120,75 180,45 C240,15 300,65 360,40 C420,15 480,65 540,35 C570,20 600,45 600,45" fill="none" stroke="url(#snakeGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="24 12" opacity="0.8"/>
-      <circle cx="540" cy="35" r="7" fill="#ffffff" stroke="#bc13fe" stroke-width="2" opacity="0.9"/>
-    </svg>
-  </div>
+<div align="center">
+  <strong>I'm Tanvir Nibir — an Elite Software Engineering student at Metropolia University, mastering Mobile Development and building world-class applications.</strong>
+  <br /><br />
+  I'm dominating modern development technologies and creating exceptional digital experiences that set the standard.
 </div>
 
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.28); background: linear-gradient(135deg, rgba(9, 10, 15, 0.92) 10%, rgba(188, 19, 254, 0.28) 100%); box-shadow: 0 18px 45px rgba(188, 19, 254, 0.2); overflow-x: auto; max-width: 100%; box-sizing: border-box;">
+<br />
 
-<table style="width: 100%; border-collapse: collapse; font-size: 14px; min-width: 520px; color: rgba(255, 255, 255, 0.85);">
-  <thead>
-    <tr>
-      <th align="center" style="padding: 12px 16px; background: rgba(188, 19, 254, 0.18); border-bottom: 1px solid rgba(188, 19, 254, 0.28);">📚 Currently Learning</th>
-      <th align="center" style="padding: 12px 16px; background: rgba(188, 19, 254, 0.18); border-bottom: 1px solid rgba(188, 19, 254, 0.28);">🔨 Building</th>
-      <th align="center" style="padding: 12px 16px; background: rgba(188, 19, 254, 0.18); border-bottom: 1px solid rgba(188, 19, 254, 0.28);">🎯 Goals</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java OOP - Inheritance, Interfaces, Collections, Packages</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Java projects with GUI (JavaFX) and database integration (JDBC)</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Master Java enterprise development and design patterns</td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Python fundamentals and object-oriented programming</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Console-based applications and web projects</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Master full-stack development</td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">React.js for modern web interfaces</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Interactive user experiences with JavaScript</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Build production-ready mobile apps</td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Android development with Kotlin</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Projects integrating APIs and databases</td>
-      <td align="left" style="padding: 12px 16px; border-bottom: 1px solid rgba(188, 19, 254, 0.12);">Contribute to open-source communities</td>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 12px 16px;">Version control with Git and collaborative workflows</td>
-      <td align="left" style="padding: 12px 16px;">Clean, maintainable code with best practices</td>
-      <td align="left" style="padding: 12px 16px;">Secure internship opportunities</td>
-    </tr>
-  </tbody>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <strong>⚡ 🎯 Current Focus ⚡</strong>
+  <br /><br />
+  ☕ Mastering <strong>Java OOP</strong><br />
+  📱 Exploring <strong>Android/Kotlin</strong><br />
+  🌐 Building <strong>Full-Stack Apps</strong><br />
+  🧠 Learning <strong>Design Patterns</strong>
+</td>
+<td width="50%" align="center">
+  <strong>👑 🚀 Goals 👑</strong>
+  <br /><br />
+  💼 Secure <strong>Internship</strong><br />
+  🤝 <strong>Open-Source</strong> Contributions<br />
+  📚 Master <strong>Enterprise Dev</strong><br />
+  🎯 Build <strong>Production Apps</strong>
+</td>
+</tr>
 </table>
 
-</div>
+<br />
 
 ---
-
-## 🛠️ Tech Stack & Learning
-
-<div align="center" style="margin: 32px auto 24px; max-width: 100%; box-sizing: border-box;">
-  <div style="width: 100%; max-width: 100%; height: 60px; border-radius: 18px; background: linear-gradient(90deg, #1e104c 0%, #7b00d6 50%, #00d4ff 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.28); position: relative; overflow: hidden; box-sizing: border-box;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" preserveAspectRatio="none" style="display: block; max-width: 100%;">
-      <defs>
-        <linearGradient id="waveGradientTechStack" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#1e104c"/>
-          <stop offset="50%" stop-color="#7b00d6"/>
-          <stop offset="100%" stop-color="#00d4ff"/>
-        </linearGradient>
-      </defs>
-      <path fill="url(#waveGradientTechStack)" d="M0,30 Q140,12 280,30 T560,30 T840,30 V60 H0 Z" opacity="0.9"/>
-    </svg>
-  </div>
-</div>
-
-<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(135deg, rgba(9, 11, 16, 0.92) 10%, rgba(188, 19, 254, 0.3) 100%); box-shadow: 0 20px 45px rgba(188, 19, 254, 0.18); text-align: center; color: rgba(255, 255, 255, 0.86); max-width: 100%; box-sizing: border-box;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 16px 0 12px;">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Languages strip" />
-</div>
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BC13FE)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BC13FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=BC13FE)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=BC13FE)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=BC13FE)
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0 16px;">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Framework icons" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
-</div>
-
-**Frameworks & Libraries (Learning)**  
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=BC13FE)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=BC13FE)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=BC13FE)
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0 16px;">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase" alt="Exploration icons" />
-</div>
-
-**Currently Exploring**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=BC13FE)
-![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=BC13FE)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=BC13FE)
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0 16px;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools icons" />
-</div>
-
-**Tools & Development**  
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=BC13FE)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=BC13FE)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=BC13FE)
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0 16px;">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database icon" />
-</div>
-
-**Database & Backend**  
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=BC13FE)
-![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=for-the-badge&logo=java&logoColor=BC13FE)
-
-</div>
-
----
-
-## 🏆 Highlights
-
-<div style="height: 3px; width: 100%; max-width: 640px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(188, 19, 254, 0.15) 0%, rgba(188, 19, 254, 0.9) 50%, rgba(188, 19, 254, 0.15) 100%); box-shadow: 0 0 26px rgba(188, 19, 254, 0.4);"></div>
-
-<div style="padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.32); background: linear-gradient(140deg, rgba(10, 12, 18, 0.94) 10%, rgba(188, 19, 254, 0.32) 100%); box-shadow: 0 22px 50px rgba(188, 19, 254, 0.24); color: rgba(255, 255, 255, 0.88); line-height: 1.65; max-width: 100%; box-sizing: border-box;">
-
-- 🎓 **Software Engineering student (Mobile Development major)** at Metropolia University — actively learning and building practical applications  
-- ☕ Currently mastering **Java OOP** with hands-on projects covering inheritance, interfaces, collections, packages, and GUI development with JavaFX  
-- 💻 Developing full-stack projects with Java, Python, JavaScript, React, Node.js, and MongoDB  
-- 🚀 Building applications from fundamentals to advanced topics including database integration with JDBC, RESTful APIs, and modern frameworks  
-- 📝 Recently enhanced profile documentation and project descriptions with comprehensive technical details  
-- 🤝 Open to internships, part-time tech roles, and collaborative learning opportunities  
-- 📚 Passionate about continuous learning, clean code principles, and contributing to open-source projects
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div style="height: 3px; width: 100%; max-width: 520px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(15, 10, 40, 0.2) 0%, rgba(188, 19, 254, 0.85) 50%, rgba(15, 10, 40, 0.2) 100%); box-shadow: 0 0 20px rgba(188, 19, 254, 0.36);"></div>
-
-<div style="padding: 24px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.25); background: linear-gradient(135deg, rgba(9, 9, 14, 0.92) 5%, rgba(188, 19, 254, 0.25) 100%); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22); text-align: center; color: rgba(255, 255, 255, 0.88); max-width: 100%; box-sizing: border-box;">
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; margin-top: 24px;">
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
-    <h3>📚 Bookish App</h3>
-    <p><strong>A Modern Platform for Book Enthusiasts</strong></p>
-    <p>Comprehensive book management application designed for readers to explore, review, and organize their literary journey. Built with modern web technologies and database integration, this platform enables seamless book discovery and community engagement.</p>
-    <ul>
-      <li>🔹 Advanced search functionality with filtering and sorting capabilities</li>
-      <li>🔹 Community-driven review and rating system with user-generated content</li>
-      <li>🔹 Personal library management with custom reading lists and virtual shelves</li>
-      <li>🔹 AI-powered book recommendations based on reading history and preferences</li>
-      <li>🔹 Social features for connecting with fellow readers and sharing insights</li>
-      <li>🔹 Responsive design optimized for desktop and mobile experiences</li>
-    </ul>
-    <p><strong>Tech Stack:</strong> Modern Web Technologies, Database Integration, RESTful APIs</p>
-    <a href="https://github.com/TanvirNibir/Bookish-App"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-  </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
-    <h3>✈️ Skyward Deliveries</h3>
-    <p><strong>A Full-Stack Drone Delivery Management System with Interactive Gameplay</strong></p>
-    <p>An enterprise-grade delivery tracking platform combining real-time logistics management with gamified airplane management. Features comprehensive admin controls, real-time tracking, and engaging gameplay mechanics for optimal user experience.</p>
-    <ul>
-      <li>🔹 Real-time delivery tracking with Mapbox integration and geolocation services</li>
-      <li>🔹 Comprehensive admin dashboard with user management, delivery scheduling, and analytics</li>
-      <li>🔹 Interactive gameplay mechanics: manage airports, fuel systems, and airplane upgrades</li>
-      <li>🔹 Advanced analytics dashboard with performance metrics and data visualization</li>
-      <li>🔹 Secure authentication system using MongoDB and JWT tokens</li>
-      <li>🔹 RESTful API architecture with Express.js backend and React frontend</li>
-      <li>🔹 Python scripts for data processing and automation</li>
-    </ul>
-    <p><strong>Tech Stack:</strong> Node.js, Express.js, React, Python, MongoDB, Mapbox API, JWT Authentication</p>
-    <a href="https://github.com/TanvirNibir/Skyward_Deliveries"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-  </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
-    <h3>☕ SWE-25: Java OOP Learning Journey</h3>
-    <p><strong>Comprehensive Java Object-Oriented Programming Course Repository</strong></p>
-    <p>A structured learning repository documenting my complete Java OOP journey from fundamentals to advanced concepts. Includes practical exercises, real-world projects, and progress tracking across multiple learning modules.</p>
-    <ul>
-      <li>🔹 <strong>Module 1-2 Completed:</strong> Java fundamentals, variables, control structures, arrays, classes, collections framework</li>
-      <li>🔹 <strong>Currently Learning:</strong> Inheritance hierarchies, interface implementation, static methods, package organization</li>
-      <li>🔹 <strong>Upcoming:</strong> GUI development with JavaFX, database integration with JDBC, unit testing with JUnit, lambda expressions</li>
-      <li>🔹 Practical projects: Shape hierarchies, Car inheritance systems, Library management, CoffeeMaker simulation, Television control</li>
-      <li>🔹 Comprehensive progress tracking with structured learning modules and documentation</li>
-      <li>🔹 Code examples demonstrating SOLID principles and design patterns</li>
-    </ul>
-    <p><strong>Tech Stack:</strong> Java, OOP Principles, Collections Framework, JDBC (learning), JavaFX (upcoming)</p>
-    <a href="https://github.com/TanvirNibir/SWE-25"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-  </div>
-  <div style="flex: 1 1 260px; max-width: 420px; padding: 24px; border-radius: 24px; border: 1px solid rgba(188, 19, 254, 0.3); background: linear-gradient(145deg, rgba(13, 17, 23, 0.95) 5%, rgba(188, 19, 254, 0.22) 100%); box-shadow: 0 18px 40px rgba(188, 19, 254, 0.18); text-align: left; box-sizing: border-box;">
-    <h3>☕ Coffee Machine Project</h3>
-    <p><strong>A Python-based simulation of a coffee machine demonstrating OOP principles</strong></p>
-    <p>An elegant console-based application showcasing object-oriented programming principles through a fully functional coffee machine simulation. Demonstrates clean code architecture, separation of concerns, and modular design patterns.</p>
-    <ul>
-      <li>🔹 Multiple coffee types: latte, espresso, cappuccino with customizable recipes</li>
-      <li>🔹 Realistic coin-based payment system with precise change calculation algorithms</li>
-      <li>🔹 Resource management: track water, milk, and coffee bean inventory in real-time</li>
-      <li>🔹 Comprehensive reporting: detailed resource status and profit analytics</li>
-      <li>🔹 Clean OOP architecture: Menu, CoffeeMaker, and MoneyMachine classes with single responsibility</li>
-      <li>🔹 Error handling for insufficient resources and invalid inputs</li>
-      <li>🔹 Extensible design allowing easy addition of new coffee types and features</li>
-    </ul>
-    <p><strong>Tech Stack:</strong> Python 3.x, OOP Design Patterns, SOLID Principles</p>
-    <a href="https://github.com/TanvirNibir/Coffee_Machine"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-  </div>
-</div>
-
-<div style="margin-top: 24px; text-align: center;">
-  <a href="https://github.com/TanvirNibir?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE" alt="All Repos" /></a>
-</div>
-
-</div>
-
----
-
-## 📅 Learning Roadmap 2025
-
-<div style="height: 3px; width: 100%; max-width: 520px; margin: 32px auto 24px; border-radius: 999px; background: linear-gradient(90deg, rgba(15, 10, 40, 0.2) 0%, rgba(188, 19, 254, 0.85) 50%, rgba(15, 10, 40, 0.2) 100%); box-shadow: 0 0 20px rgba(188, 19, 254, 0.36);"></div>
-
-<div style="padding: 28px; border-radius: 28px; border: 1px solid rgba(188, 19, 254, 0.4); background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35) 0%, rgba(10, 12, 16, 0.95) 45%, rgba(10, 12, 16, 0.98) 100%); box-shadow: 0 30px 60px rgba(188, 19, 254, 0.25); color: rgba(255, 255, 255, 0.88); max-width: 100%; box-sizing: border-box;">
-  <ul style="list-style: none; padding: 0; margin: 0; display: grid; gap: 12px;">
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #ff9bff, #7a00ff); box-shadow: 0 4px 12px rgba(188, 19, 254, 0.45); color: #fff; font-size: 14px;">🎓</span>
-      Complete Java OOP course (inheritance, interfaces, GUI, JDBC, testing)
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #9bfffd, #006fff); box-shadow: 0 4px 12px rgba(0,110,255,0.45); color: #fff; font-size: 14px;">📚</span>
-      Master Python and JavaScript fundamentals
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #ffcf9b, #ff5722); box-shadow: 0 4px 12px rgba(255,87,34,0.45); color: #fff; font-size: 14px;">🎨</span>
-      Build responsive web applications with React
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #9bffa1, #00c853); box-shadow: 0 4px 12px rgba(0,200,83,0.45); color: #fff; font-size: 14px;">🤖</span>
-      Start Android development with Kotlin
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #c2b6ff, #4b39ff); box-shadow: 0 4px 12px rgba(75,57,255,0.45); color: #fff; font-size: 14px;">🗄️</span>
-      Master database design and integration (MongoDB, SQL, JDBC)
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #ff9bd0, #d5006d); box-shadow: 0 4px 12px rgba(213,0,109,0.45); color: #fff; font-size: 14px;">🧪</span>
-      Learn unit testing and Test-Driven Development (TDD)
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #fffd9b, #ffb400); box-shadow: 0 4px 12px rgba(255,180,0,0.45); color: #fff; font-size: 14px;">🤝</span>
-      Contribute to open-source Java/Python projects
-    </li>
-    <li style="display: flex; align-items: center; gap: 12px;">
-      <span style="width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: radial-gradient(circle at top, #b39bff, #6200ea); box-shadow: 0 4px 12px rgba(98,0,234,0.45); color: #fff; font-size: 14px;">💼</span>
-      Secure an internship in mobile/full-stack development
-    </li>
-  </ul>
-</div>
-
----
-
-## 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirNibir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&icon_color=BC13FE&text_color=ffffff&cache_seconds=86400" alt="Tanvir's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=TanvirNibir&theme=radical&hide_border=true&background=0D1117&stroke=BC13FE&ring=BC13FE&fire=BC13FE&currStreakLabel=BC13FE&border_radius=20" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirNibir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&text_color=ffffff&cache_seconds=86400" alt="Top languages" />
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ solid separator badge" alt="Separator" />
 </div>
-
----
-
-## 📈 Activity
 
 <div align="center">
-  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.35), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.35); box-shadow: 0 25px 55px rgba(188, 19, 254, 0.22); max-width: 100%; box-sizing: border-box;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirNibir&theme=radical&hide_border=true&bg_color=0D1117&color=BC13FE&line=BC13FE&point=FFFFFF&area=true&area_color=BC13FE&cache_seconds=3600" alt="Contribution graph" style="display: block; border-radius: 18px;" />
-  </div>
-  <div style="display: inline-block; padding: 18px; margin: 16px; border-radius: 28px; background: radial-gradient(circle at top, rgba(188, 19, 254, 0.18), rgba(10, 12, 16, 0.95)); border: 1px solid rgba(188, 19, 254, 0.25); box-shadow: 0 18px 36px rgba(188, 19, 254, 0.18); max-width: 100%; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/TanvirNibir/TanvirNibir/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" style="display: block; border-radius: 18px;" />
-  </div>
+  <h2>🚀 Quick Facts</h2>
+  <p>⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡</p>
 </div>
 
-<details>
-<summary>📝 <i>Note: If graphs don't load, it's due to GitHub API rate limiting. They'll appear automatically once limits reset (usually within 1-2 hours).</i></summary>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  🎓 <strong>Student</strong><br />
+  Metropolia University<br />
+  Mobile Development Major
+</td>
+<td align="center" width="33%">
+  💡 <strong>Learning</strong><br />
+  Build from concept<br />
+  to deployment
+</td>
+<td align="center" width="33%">
+  🎯 <strong>Goal</strong><br />
+  Full-stack developer<br />
+  Meaningful projects
+</td>
+</tr>
+</table>
 
-The contribution graphs use GitHub's API which has rate limits. When you see "Failed to retrieve contributions", the public service has temporarily hit its limit. The graphs will automatically refresh once the rate limit resets.
-
-**Why this happens:**
-- Public GitHub stats services share API rate limits
-- High traffic periods can cause temporary unavailability
-- Caching helps but doesn't eliminate the issue completely
-
-**Solutions:**
-- ✅ Wait 1-2 hours for automatic recovery (recommended)
-- ✅ The contribution snake (right side) uses a different method and should always work
-- 🔧 For permanent solution, consider self-hosting your own instance
-</details>
-
----
-
-## ☕ Fun Facts
-
-- 🎮 Gaming keeps my problem-solving sharp  
-- ☕ Coffee + lo-fi beats = perfect build sessions  
-- 🎵 Synthwave playlists power my late-night sprints  
-- 📖 Always hunting for the next tech blog or podcast  
-- 🌍 Travel fuels my curiosity and design thinking
+<br />
 
 ---
 
-## 🤝 Let's Build Together
+<div align="center">
+  <h2>🌌 Learning Journey</h2>
+  <p>✨ <strong>Growing Every Day</strong> ✨</p>
+</div>
 
-<p align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="33%">📚 Currently Learning</th>
+<th align="center" width="33%">🔨 Building</th>
+<th align="center" width="33%">🎯 Goals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Java OOP - Inheritance, Interfaces, Collections, Packages</td>
+<td align="left">Java projects with GUI (JavaFX) and database integration (JDBC)</td>
+<td align="left">Master Java enterprise development and design patterns</td>
+</tr>
+<tr>
+<td align="left">Python fundamentals and object-oriented programming</td>
+<td align="left">Console-based applications and web projects</td>
+<td align="left">Master full-stack development</td>
+</tr>
+<tr>
+<td align="left">React.js for modern web interfaces</td>
+<td align="left">Interactive user experiences with JavaScript</td>
+<td align="left">Build production-ready mobile apps</td>
+</tr>
+<tr>
+<td align="left">Android development with Kotlin</td>
+<td align="left">Projects integrating APIs and databases</td>
+<td align="left">Contribute to open-source communities</td>
+</tr>
+<tr>
+<td align="left">Version control with Git and collaborative workflows</td>
+<td align="left">Clean, maintainable code with best practices</td>
+<td align="left">Secure internship opportunities</td>
+</tr>
+</tbody>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack & Learning</h2>
+  <p>🔥 <strong>Technologies I Master</strong> 🔥</p>
+  <img src="https://img.shields.io/badge/Tech-Mastery-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Tech Mastery" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Languages" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Java-BC13FE?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-BC13FE?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-BC13FE?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-BC13FE?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-BC13FE?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
+  <br /><br />
+  
+  <h3>⚛️ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Frameworks" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/React-BC13FE?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-BC13FE?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-BC13FE?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <br /><br />
+  
+  <h3>📱 Currently Exploring</h3>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase" alt="Exploration" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Kotlin-BC13FE?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-BC13FE?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Android" />
+  <img src="https://img.shields.io/badge/Firebase-BC13FE?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
+  <br /><br />
+  
+  <h3>🛠️ Tools & Development</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Git-BC13FE?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-BC13FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-BC13FE?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-BC13FE?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF" alt="IntelliJ IDEA" />
+  <br /><br />
+  
+  <h3>🗄️ Database & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/MongoDB-BC13FE?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JDBC-BC13FE?style=for-the-badge&logo=java&logoColor=FFFFFF" alt="JDBC" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>🏆 Highlights</h2>
+  <p>🌟 <strong>Key Achievements & Goals</strong> 🌟</p>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  🎓 <strong>Software Engineering Student</strong><br />
+  Mobile Development Major @ Metropolia University
+</td>
+<td align="center" width="50%">
+  ☕ <strong>Mastering Java OOP</strong><br />
+  Inheritance, Interfaces, Collections, JavaFX
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  💻 <strong>Full-Stack Development</strong><br />
+  Java, Python, JavaScript, React, Node.js, MongoDB
+</td>
+<td align="center" width="50%">
+  🚀 <strong>Building Real Projects</strong><br />
+  From fundamentals to advanced topics
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  📝 <strong>Enhanced Documentation</strong><br />
+  Comprehensive technical details
+</td>
+<td align="center" width="50%">
+  🤝 <strong>Open to Opportunities</strong><br />
+  Internships, part-time roles, collaborations
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>📂 Featured Projects</h2>
+  <p>⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡</p>
+  <img src="https://img.shields.io/badge/Projects-Elite-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Elite Projects" />
+</div>
+
+<br />
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+  <h3>📚 Bookish App</h3>
+  <strong>A Modern Platform for Book Enthusiasts</strong>
+  <br /><br />
+  Comprehensive book management application designed for readers to explore, review, and organize their literary journey.
+  <br /><br />
+  <strong>Key Features:</strong><br />
+  🔹 Advanced search & filtering<br />
+  🔹 Community reviews & ratings<br />
+  🔹 Personal library management<br />
+  🔹 AI-powered recommendations<br />
+  🔹 Social features
+  <br /><br />
+  <strong>Tech Stack:</strong> Web Technologies, Database Integration, RESTful APIs
+  <br /><br />
+  <a href="https://github.com/TanvirNibir/Bookish-App"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <h3>✈️ Skyward Deliveries</h3>
+  <strong>Full-Stack Drone Delivery Management System</strong>
+  <br /><br />
+  Enterprise-grade delivery tracking platform combining real-time logistics with gamified airplane management.
+  <br /><br />
+  <strong>Key Features:</strong><br />
+  🔹 Real-time tracking (Mapbox)<br />
+  🔹 Admin dashboard & analytics<br />
+  🔹 Interactive gameplay mechanics<br />
+  🔹 JWT authentication<br />
+  🔹 RESTful API architecture
+  <br /><br />
+  <strong>Tech Stack:</strong> Node.js, Express.js, React, Python, MongoDB, Mapbox API
+  <br /><br />
+  <a href="https://github.com/TanvirNibir/Skyward_Deliveries"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <h3>☕ SWE-25: Java OOP Journey</h3>
+  <strong>Comprehensive Java OOP Course Repository</strong>
+  <br /><br />
+  Structured learning repository documenting complete Java OOP journey from fundamentals to advanced concepts.
+  <br /><br />
+  <strong>Progress:</strong><br />
+  ✅ Module 1-2 Completed<br />
+  🔄 Currently Learning<br />
+  📋 Upcoming: GUI, JDBC, Testing
+  <br /><br />
+  <strong>Tech Stack:</strong> Java, OOP Principles, Collections, JDBC, JavaFX
+  <br /><br />
+  <a href="https://github.com/TanvirNibir/SWE-25"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <h3>☕ Coffee Machine Project</h3>
+  <strong>Python OOP Simulation</strong>
+  <br /><br />
+  Elegant console-based application showcasing OOP principles through a fully functional coffee machine simulation.
+  <br /><br />
+  <strong>Features:</strong><br />
+  🔹 Multiple coffee types<br />
+  🔹 Coin-based payment system<br />
+  🔹 Resource management<br />
+  🔹 Clean OOP architecture<br />
+  🔹 Error handling
+  <br /><br />
+  <strong>Tech Stack:</strong> Python 3.x, OOP Design Patterns, SOLID Principles
+  <br /><br />
+  <a href="https://github.com/TanvirNibir/Coffee_Machine"><img src="https://img.shields.io/badge/View%20Repository-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/TanvirNibir?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-BC13FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="All Repos" /></a>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>📅 Learning Roadmap 2025</h2>
+  <p>🚀 <strong>My Journey Ahead</strong> 🚀</p>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  🎓 <strong>Java OOP</strong><br />
+  Complete course<br />
+  Inheritance, Interfaces, GUI, JDBC
+</td>
+<td align="center" width="25%">
+  📚 <strong>Python & JS</strong><br />
+  Master fundamentals<br />
+  Build strong foundation
+</td>
+<td align="center" width="25%">
+  🎨 <strong>React Apps</strong><br />
+  Responsive web<br />
+  Modern interfaces
+</td>
+<td align="center" width="25%">
+  🤖 <strong>Android/Kotlin</strong><br />
+  Mobile development<br />
+  Start building apps
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  🗄️ <strong>Databases</strong><br />
+  MongoDB, SQL, JDBC<br />
+  Master integration
+</td>
+<td align="center" width="25%">
+  🧪 <strong>Testing</strong><br />
+  Unit testing & TDD<br />
+  Quality assurance
+</td>
+<td align="center" width="25%">
+  🤝 <strong>Open Source</strong><br />
+  Contribute to projects<br />
+  Java/Python repos
+</td>
+<td align="center" width="25%">
+  💼 <strong>Internship</strong><br />
+  Mobile/Full-stack<br />
+  Real-world experience
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Pulse</h2>
+  <p>⚡ <strong>My Coding Dominance</strong> ⚡</p>
+  <img src="https://img.shields.io/badge/Stats-Dominance-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Stats Dominance" />
+  <br /><br />
+  <p><a href="https://github.com/TanvirNibir"><strong>View full profile on GitHub →</strong></a></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanvirNibir&show_icons=true&theme=radical&hide_border=true&bg_color=BC13FE&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400&include_all_commits=true&count_private=true" alt="Tanvir's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirNibir&layout=compact&theme=radical&hide_border=true&bg_color=BC13FE&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400&langs_count=8" alt="Top languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TanvirNibir&theme=radical&hide_border=true&background=BC13FE&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=20" alt="GitHub streak" />
+  </a>
+</div>
+
+<div align="center">
+  <p><small>⚠️ <strong>Stats not loading?</strong> The public API has rate limits. <a href="https://github.com/TanvirNibir">View stats on GitHub</a> or wait 1-2 hours for auto-refresh.</small></p>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>📈 Activity</h2>
+  <p>✨ <strong>Contribution Graph</strong> ✨</p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirNibir&theme=radical&hide_border=true&bg_color=BC13FE&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&cache_seconds=86400" alt="Contribution graph" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TanvirNibir/TanvirNibir/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</div>
+
+<div align="center">
+  <p><small>💡 <i>The contribution snake always works! It uses your actual contribution data.</i></small></p>
+</div>
+
+<br />
+
+<div align="center">
+  <details>
+    <summary>📝 <i>Understanding GitHub Stats API Rate Limits</i></summary>
+    <br />
+    <strong>Why stats sometimes don't load:</strong><br />
+    The GitHub stats use a public API service that shares rate limits across all users. When traffic is high, the service temporarily hits GitHub's API limits.
+    <br /><br />
+    <strong>What works:</strong><br />
+    ✅ <strong>Contribution Snake</strong> - Always works (uses static SVG)<br />
+    ✅ <strong>GitHub Profile</strong> - Always shows stats at <a href="https://github.com/TanvirNibir">github.com/TanvirNibir</a><br />
+    ✅ <strong>Auto-refresh</strong> - Stats reload automatically when limits reset (usually 1-2 hours)
+    <br /><br />
+    <strong>Quick solutions:</strong><br />
+    • Click any stat image to manually refresh<br />
+    • Visit <a href="https://github.com/TanvirNibir">my GitHub profile</a> for always-available stats<br />
+    • Wait 1-2 hours for automatic recovery
+    <br /><br />
+    <small><i>This is a known limitation of public GitHub stats services. For a permanent solution, consider self-hosting.</i></small>
+  </details>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>☕ Fun Facts</h2>
+  <p>👑 <strong>What Makes Me Elite</strong> 👑</p>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  🎮 <strong>Gaming</strong><br />
+  Problem-solving sharp
+</td>
+<td align="center" width="33%">
+  ☕ <strong>Coffee + Lo-fi</strong><br />
+  Perfect build sessions
+</td>
+<td align="center" width="33%">
+  🎵 <strong>Synthwave</strong><br />
+  Late-night sprints
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  📖 <strong>Tech Blogs</strong><br />
+  Always learning
+</td>
+<td align="center" width="33%">
+  🌍 <strong>Travel</strong><br />
+  Curiosity & design
+</td>
+<td align="center" width="33%">
+  🚀 <strong>Building</strong><br />
+  Real projects daily
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <h2>🤝 Let's Build Together</h2>
+  <p>🌟 <strong>Connect With Me</strong> 🌟</p>
+  <img src="https://img.shields.io/badge/Let's-Build%20Together-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Build Together" />
+</div>
+
+<div align="center">
   <a href="mailto:tanvir.nibir@metropolia.fi"><img src="https://img.shields.io/badge/Email-BC13FE?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/tanvirnibir/"><img src="https://img.shields.io/badge/LinkedIn-BC13FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://tanvirnibir.github.io"><img src="https://img.shields.io/badge/Portfolio-BC13FE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-## 💬 Quote I Love
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+<br />
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
-  <br />
-  <strong>Made with ❤️ by Tanvir Nibir</strong>
-  <br />
-  ⭐ If you enjoy my work, a star fuels the journey!
+  <h2>💬 Quote I Love</h2>
+  <p>⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡</p>
 </div>
 
-<div align="center" style="margin-top: 24px; font-size: 14px; color: rgba(255,255,255,0.75);">
-  ⚡ Visual experience orchestrated with the agent.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=BC13FE&text_color=FFFFFF" alt="Quote" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:8B00FF,100:BC13FE&height=120&section=footer&animation=twinkling" alt="Footer wave" />
+  <br />
+  <p>⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡</p>
+  <strong>Crafted with 💪 by Tanvir Nibir</strong>
+  <br />
+  ⚡ Building excellence, one commit at a time ⚡
+  <br />
+  <p>⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡</p>
+  <img src="https://img.shields.io/badge/Built%20With-Excellence-BC13FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="Built With Excellence" />
 </div>
